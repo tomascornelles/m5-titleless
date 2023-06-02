@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=m5-borderless
+Comment=A titleless theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+ButtonLayout=menu:minimize,maximize,close
